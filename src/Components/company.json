@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1",
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+        "cname":"AMAZON",
+        "jobinfo":"Some info about the job",
+        "sal":"10k-50k",
+        "ago":"3"
+    },
+    {
+        "id":"2",
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+        "cname":"GOOGLE",
+        "jobinfo":"Some info about the job",
+        "sal":"10k-50k",
+        "ago":"5"
+    },
+    {
+        "id":"3",
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/8/8b/Microsoft_logo_%282012%29_modified.png",
+        "cname":"MICROSOFT",
+        "jobinfo":"Some info about the job",
+        "sal":"10k-50k",
+        "ago":"6"
+    }
+]
