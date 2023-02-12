@@ -25,7 +25,6 @@ function App() {
       <Route path='/signup' element={<SignUp/>}></Route>
       <Route path='/edit' element={<Edit/>}></Route>
     </Routes>
-    <h1>Hello testing</h1>
     </>
   );
 }
